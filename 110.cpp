@@ -3,7 +3,7 @@ public:
     bool isBalanced(TreeNode* root) {
         int h = 0;
         return dfs(root, h);
-    }
+    } 
 private:
     bool dfs(TreeNode* root, int& h) {
         if (root == NULL) {
