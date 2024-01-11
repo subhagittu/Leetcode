@@ -4,7 +4,7 @@ class Solution {
     static int helper(int arr[], int i, int k, int flag){
         if(i==arr.length) return 0;
 
-        if(dp[flag][k][i]!=-1) return dp[flag][k][i];
+        if(dp[flag][k][i]!=-1) return dp[flag][k][i]; 
 
         int ans = Integer.MIN_VALUE;
         ans = helper(arr,i+1,k,flag);   // leave thar stock
