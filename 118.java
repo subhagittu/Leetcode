@@ -1,5 +1,6 @@
 class Solution {
-    public List<List<Integer>> generate(int numRows) {
+    public List<List<Integer>> generate(int numRows) 
+    {
         if (numRows == 0) return new ArrayList<>();
         if (numRows == 1) {
             List<List<Integer>> result = new ArrayList<>();
