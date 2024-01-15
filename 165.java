@@ -3,7 +3,7 @@ class Solution {
         String[] a = version1.split("\\."), b = version2.split("\\.");
         boolean changed = false;
         if (a.length < b.length) {
-            String[] temp = a;
+            String[] temp = a; 
             a = b;
             b = temp;
             changed = true;
