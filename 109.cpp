@@ -8,7 +8,7 @@ public:
        
         ListNode* slow = head;
         
-        ListNode* fast = head;
+        ListNode* fast = head; 
         ListNode* Prev = NULL;
 
         while(fast && fast->next){
