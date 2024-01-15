@@ -3,7 +3,7 @@ class Solution {
         Stack<Character> stack = new Stack<Character>(); 
         for (char c : s.toCharArray()) {
             if (c == '(')
-                stack.push(')'); 
+                stack.push(')');  
             else if (c == '{') 
                 stack.push('}'); 
             else if (c == '[') 
