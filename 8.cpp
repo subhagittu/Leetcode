@@ -7,7 +7,7 @@ public:
         long ans=0;
         while(i<s.length() && s[i]==' ')
             i++;
-        if(s[i]=='-')
+        if(s[i]=='-') 
         {
             sign=-1;
             i++;
