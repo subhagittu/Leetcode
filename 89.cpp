@@ -1,6 +1,8 @@
-class Solution {
+class Solution 
+{
 public:
-    vector<int> grayCode(int n) {
+    vector<int> grayCode(int n)
+{
        
         vector<int> ans(1<<n);
 
