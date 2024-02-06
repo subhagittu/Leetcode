@@ -13,7 +13,8 @@
  *     } 
  * }
  */
-class Solution {
+class Solution 
+{
     static int max_sum;
     public static int calc(TreeNode root){
         if(root==null) return 0;
