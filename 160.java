@@ -1,5 +1,6 @@
 class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) 
+    {
         int ac = 0;
         int bc = 0;
         ListNode a = headA;
