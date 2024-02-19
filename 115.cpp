@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
 public:
     int dp[1001][1001];
     int solve(int currentInd, int currentTarIn, string &s, string &t) {
