@@ -3,7 +3,7 @@ class Solution {
         if (s.isEmpty()) {
         	return true;
         } 
-        int start = 0;
+        int start = 0; 
         int last = s.length() - 1;
         while(start <= last) {
         	char currFirst = s.charAt(start);
