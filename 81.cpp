@@ -5,7 +5,7 @@ public:
         if(target< nums[0] == nums[mid]<nums[0]){
             val=nums[mid];
         } 
-        else{
+        else{ 
             if(target<nums[0]){
                 val=INT_MIN;
             }
