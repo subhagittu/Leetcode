@@ -1,5 +1,5 @@
 class Solution {
-    public List<String> generateParenthesis(int n) {
+    public List<String> generateParenthesis(int n) { 
         List<String> res = new ArrayList<String>();
         recurse(res, 0, 0, "", n);
         return res;
