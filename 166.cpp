@@ -1,6 +1,6 @@
 class Solution 
 {
-public:
+public: 
     string fractionToDecimal(int numerator, int denominator) {
         if(!numerator) return "0";
         string ans = "";
