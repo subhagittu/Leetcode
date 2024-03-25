@@ -1,7 +1,7 @@
 
 class Solution {
     long resolves(long a, long b, char Operator) {
-        if (Operator == '+') return a + b;
+        if (Operator == '+') return a + b; 
         else if (Operator == '-') return a - b;
         else if (Operator == '*') return a * b;
         return a / b;
