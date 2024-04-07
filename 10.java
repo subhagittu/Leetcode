@@ -1,7 +1,7 @@
 enum Result {
     TRUE, FALSE
 } 
-
+ 
 class Solution {
     Result[][] memo;  
     
