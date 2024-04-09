@@ -2,7 +2,7 @@ enum Result {
     TRUE, FALSE
 } 
   
-class Solution {
+class Solution { 
     Result[][] memo;  
     
 
