@@ -4,7 +4,7 @@ class Solution {
         	return true;
         } 
         int start = 0; 
-        int last = s.length() - 1;
+        int last = s.length() - 1; 
         while(start <= last) {
         	char currFirst = s.charAt(start);
         	char currLast = s.charAt(last);
