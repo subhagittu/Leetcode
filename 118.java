@@ -6,7 +6,7 @@ class Solution {
             List<List<Integer>> result = new ArrayList<>();
             result.add(Arrays.asList(1));
             return result;
-        }
+        } 
         
         List<List<Integer>> prevRows = generate(numRows - 1);
         List<Integer> newRow = new ArrayList<>();
