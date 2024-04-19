@@ -1,7 +1,7 @@
 class Solution {
     public int compareVersion(String version1, String version2) {
         String[] a = version1.split("\\."), b = version2.split("\\.");
-        boolean changed = false;
+        boolean changed = false; 
         if (a.length < b.length) {
             String[] temp = a; 
             a = b;
