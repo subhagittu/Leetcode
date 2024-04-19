@@ -1,7 +1,7 @@
 /**
  * @param {number[][]} intervals
  * @param {number[]} newInterval
- * @return {number[][]}
+ * @return {number[][]} 
  */
 var insert = (intervals, newInterval) => {
   let [start, end] = newInterval;
