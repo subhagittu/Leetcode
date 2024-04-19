@@ -1,5 +1,5 @@
 class Solution {
-    public int lengthOfLastWord(String s) {
+    public int lengthOfLastWord(String s) { 
          s = s.trim(); // remove the spaces occuring at beginning and last
         int n = s.length();
         int count = 0;
