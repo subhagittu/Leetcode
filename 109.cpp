@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     TreeNode* sortedListToBST(ListNode* head)  {
        
         if(!head) return NULL;
