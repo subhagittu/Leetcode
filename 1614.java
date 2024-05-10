@@ -1,6 +1,6 @@
 class Solution {
     public int maxDepth(String s) {
-         int countBrackets = 0;
+         int countBrackets = 0; 
         int answer = Integer.MIN_VALUE; 
 
         for (int i = 0; i < s.length(); i++) {
