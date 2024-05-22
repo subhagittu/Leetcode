@@ -1,7 +1,7 @@
 class Solution {
 public: 
     TreeNode* sortedListToBST(ListNode* head)  {
-       
+        
         if(!head) return NULL; 
         if(!head->next) return new TreeNode(head->val);
 
