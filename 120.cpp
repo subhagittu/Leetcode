@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minimumTotal(vector<vector<int>>& triangle) 
+    int minimumTotal(vector<vector<int>>& triangle)  
 {
         int n = triangle.size(); 
         vector<vector<int>> dp = triangle ;
