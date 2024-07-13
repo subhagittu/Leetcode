@@ -3,7 +3,7 @@ class Solution {
         int n = customers.length;
         int ans = 0;
         for (int i = 0; i < n; i++) {
-            if (grumpy[i] == 0) {
+            if (grumpy[i] == 0) { 
                 ans += customers[i];
             }
         }
