@@ -1,5 +1,5 @@
 enum Result {
-    TRUE, FALSE 
+    TRUE, FALSE
 }  
   
 class Solution { 
