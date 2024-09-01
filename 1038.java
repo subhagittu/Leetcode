@@ -1,6 +1,6 @@
 class Solution {
     private int sum = 0;
-     
+      
     public TreeNode bstToGst(TreeNode root) {    
         if (root != null) { 
             bstToGst(root.right); 
