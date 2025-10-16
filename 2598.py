@@ -4,7 +4,7 @@ class Solution:
         mod=[0]*value
         for x in nums:
             x%=value
-            if x<0: x+=value
+            if x<0: x+=value 
             mod[x]+=1
         for i in range(n):
             j=i%value
