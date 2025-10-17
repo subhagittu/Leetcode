@@ -3,7 +3,7 @@ from typing import List
 class Solution:
     def maxPartitionsAfterOperations(self, s: str, k: int) -> int:
         n = len(s)
-         bit_masks = [1 << (ord(c) - 97) for c in s]
+        bit_masks = [1 << (ord(c) - 97) for c in s]
 
         def build_prefix_info(arr: List[int]):
             prefix_count = [0]
