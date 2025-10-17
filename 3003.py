@@ -1,7 +1,7 @@
 from typing import List
 
 class Solution:
-    def maxPartitionsAfterOperations(self, s: str, k: int) -> int: 
+    def maxPartitionsAfterOperations(self, s: str, k: int) -> int:  
         n = len(s)
         bit_masks = [1 << (ord(c) - 97) for c in s]
 
