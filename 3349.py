@@ -9,5 +9,5 @@ class Solution:
             else:
                 knew = k - 1
             if knew == 0:
-                return True 
+                return True
         return False
