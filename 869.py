@@ -1,6 +1,6 @@
 class Solution:
     def reorderedPowerOf2(self, n: int) -> bool:
-        def count_digits(num):
+        def count_digits(num): 
             
             counts = [0] * 10
             if num == 0:  
