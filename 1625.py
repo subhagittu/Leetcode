@@ -1,5 +1,5 @@
 class Solution:
-    def findLexSmallestString(self, s: str, a: int, b: int) -> str:
+    def findLexSmallestString(self, s: str, a: int, b: int) -> str: 
         n = len(s)
        
         incremented = {str(n):str((n+a)%10) for n in range(10)}
