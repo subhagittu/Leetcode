@@ -1,7 +1,7 @@
 class Solution {
 public:
     int reverse(int n) {
-        int digit;
+        int digit; 
         long long int ans=0;
         if(n== -2147483648){
            return 0; 
