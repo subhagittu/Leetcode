@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int reverse(int n) {
+    int reverse(int n) { 
         int digit; 
         long long int ans=0;
         if(n== -2147483648){
