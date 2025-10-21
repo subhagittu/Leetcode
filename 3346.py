@@ -7,7 +7,7 @@ class Solution:
             count[v] += 1
 
         for i in range(1, maxVal):
-            count[i] += count[i - 1] 
+            count[i] += count[i - 1]
 
         res = 0
         for i in range(maxVal):
