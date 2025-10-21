@@ -10,7 +10,7 @@ class Solution:
             count[i] += count[i - 1]
 
         res = 0
-        for i in range(maxVal):
+        for i in range(maxVal): 
             left = max(0, i - k)
             right = min(maxVal - 1, i + k)
             total = count[right] - (count[left - 1] if left else 0)
