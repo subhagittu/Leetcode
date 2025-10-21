@@ -1,7 +1,7 @@
 class Solution:
     def maxFrequency(self, nums: List[int], k: int, numOps: int) -> int:
         maxVal = max(nums) + k + 2
-        count = [0] * maxVal  
+        count = [0] * maxVal
 
         for v in nums:
             count[v] += 1
