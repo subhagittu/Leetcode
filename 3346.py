@@ -4,7 +4,7 @@ class Solution:
         count = [0] * maxVal
 
         for v in nums:
-            count[v] += 1 
+            count[v] += 1
 
         for i in range(1, maxVal):
             count[i] += count[i - 1]
