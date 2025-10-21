@@ -3,7 +3,7 @@ class Solution:
         maxVal = max(nums) + k + 2
         count = [0] * maxVal
 
-        for v in nums:
+        for v in nums: 
             count[v] += 1
 
         for i in range(1, maxVal):
