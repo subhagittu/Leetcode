@@ -4,7 +4,7 @@ class Solution:
         nums.sort()
         arrayValMaxFreq = self.maxFrequencyOfArrayVal(nums, k , numOperations)
               
-        left = 0 
+        left = 0
         otherValMaxFreq = 0
         for right in range(len(nums)):           
             while nums[right] > nums[left] + 2*k:
