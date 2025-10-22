@@ -3,7 +3,7 @@ class Solution:
     def maxFrequency(self, nums: List[int], k: int, numOperations: int) -> int:
         nums.sort()
         arrayValMaxFreq = self.maxFrequencyOfArrayVal(nums, k , numOperations)
-            
+        
         left = 0
         otherValMaxFreq = 0
         for right in range(len(nums)):           
