@@ -4,7 +4,7 @@ class Solution:
         def dfs(i,selected):
             if i==8:
                 if not selected:
-                    return
+                    return 
                 s="".join(str(i)*i for i in selected)
                 if len(s)<=7:
                     for i in set(permutations(s)):
