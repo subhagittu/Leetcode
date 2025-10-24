@@ -5,7 +5,7 @@ class Solution:
             if i==8:
                 if not selected:
                     return
-                s="".join(str(i)*i for i in selected) 
+                s="".join(str(i)*i for i in selected)
                 if len(s)<=7:
                     for i in set(permutations(s)):
                         st.add(int("".join(i)))
