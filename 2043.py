@@ -6,7 +6,7 @@ class Bank:
     def valid(self, acc: int) -> bool:
         return 1 <= acc <= len(self.bal)
 
-    def transfer(self, account1: int, account2: int, money: int) -> bool:
+    def transfer(self, account1: int, account2: int, money: int) -> bool: 
         if not self.valid(account1) or not self.valid(account2):
             return False
         if self.bal[account1 - 1] < money:
