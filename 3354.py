@@ -1,6 +1,6 @@
 class Solution(object):
     def countValidSelections(self, nums):
-        total, ls, cases = sum(nums), 0, 0
+        total, ls, cases = sum(nums), 0, 0 
         for i in range(len(nums)):
             rs = total - ls - nums[i]
             if nums[i] == 0:
