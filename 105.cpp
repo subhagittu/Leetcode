@@ -4,7 +4,7 @@ class Solution {
             map[in[i]] = i; 
         } 
     }
- 
+
 
     TreeNode* build(vector<int> &pre, vector<int> &in, int &index, int inStart, int inEnd, int &n, unordered_map<int,int> &map){
         if(index>=n || inStart>inEnd) return NULL;
