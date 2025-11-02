@@ -27,4 +27,4 @@ class Solution:
             comp-=1
         for ij in guards:
             cross(ij[0], ij[1])
-        return comp             
+        return comp
