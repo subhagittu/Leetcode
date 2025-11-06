@@ -7,7 +7,7 @@ public:
 
     int Find(int x) {
         return (x == root[x])?x:root[x] = Find(root[x]);
-    }  
+    } 
 
     bool Union(int x, int y) { 
         x= Find(x), y= Find(y);
