@@ -9,7 +9,7 @@ public:
         return (x == root[x])?x:root[x] = Find(root[x]);
     }  
 
-    bool Union(int x, int y) {
+    bool Union(int x, int y) { 
         x= Find(x), y= Find(y);
         if (x==y)
             return 0;
