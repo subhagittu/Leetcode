@@ -7,4 +7,4 @@ class Solution:
             if x>st[-1]:
                 op+=(x>0) 
                 st.append(x)
-        return op  
+        return op 
