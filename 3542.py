@@ -5,6 +5,6 @@ class Solution:
         for x in nums:
             while x<st[-1]: st.pop()
             if x>st[-1]:
-                op+=(x>0) 
+                op+=(x>0)
                 st.append(x)
         return op 
