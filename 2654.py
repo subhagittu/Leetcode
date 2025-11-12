@@ -1,7 +1,7 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
         n = len(nums)
-        
+    
         ones = nums.count(1)
         
         if ones: return n - ones
