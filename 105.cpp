@@ -5,8 +5,7 @@ class Solution {
         }  
     }
 
-
-    TreeNode* build(vector<int> &pre, vector<int> &in, int &index, int inStart, int inEnd, int &n, unordered_map<int,int> &map){
+     TreeNode* build(vector<int> &pre, vector<int> &in, int &index, int inStart, int inEnd, int &n, unordered_map<int,int> &map){
         if(index>=n || inStart>inEnd) return NULL;
 
         int element = pre[index++];
