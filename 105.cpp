@@ -2,7 +2,7 @@ class Solution {
     void createMap(vector<int> &in, unordered_map<int,int> &map, int &n){ 
         for(int i=0; i<n; i++){  
             map[in[i]] = i;
-        }  
+        } 
     }
 
      TreeNode* build(vector<int> &pre, vector<int> &in, int &index, int inStart, int inEnd, int &n, unordered_map<int,int> &map){
