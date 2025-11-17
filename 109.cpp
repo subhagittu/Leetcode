@@ -5,7 +5,7 @@ public:
         if(!head) return NULL; 
         if(!head->next) return new TreeNode(head->val);
 
-       
+    
         ListNode* slow = head;
         
         ListNode* fast = head; 
