@@ -3,7 +3,7 @@ class Solution:
         n = len(bits)
         currIndex = 0
 
-        
+    
         if bits[-1] == 1:
             return False
 
