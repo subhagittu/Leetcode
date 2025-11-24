@@ -6,7 +6,7 @@ class Solution {
             bstToGst(root.right); 
             sum += root.val; 
             root.val = sum;
-            bstToGst(root.left); 
+            bstToGst(root.left);
         }
         return root;
     }
