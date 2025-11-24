@@ -1,0 +1,8 @@
+class Solution(object):
+    def prefixesDivBy5(self, nums):
+        cur = 0
+        res = []
+        for bit in nums:
+            cur = ((cur << 1) + bit) % 5
+            res.append(cur == 0)
+        return res
