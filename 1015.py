@@ -1,6 +1,6 @@
 class Solution(object):
     def smallestRepunitDivByK(self, k):
-        if k % 2 == 0 or k % 5 == 0: 
+        if k % 2 == 0 or k % 5 == 0:
             return -1
         rem = 1 % k 
         len = 1
