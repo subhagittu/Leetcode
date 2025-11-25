@@ -8,5 +8,5 @@ class Solution(object):
             rem = (rem * 10 + 1) % k
             len += 1 
             if len > k:
-                return -1
+                return -1 
         return len
