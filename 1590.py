@@ -5,7 +5,7 @@ class Solution(object):
         if target == 0:
             return 0   
             
-        mp = {0: -1} 
+        mp = {0: -1}    
         prefix = 0   
         res = len(nums)
 
