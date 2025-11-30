@@ -6,7 +6,7 @@ class Solution(object):
             return 0   
 
         mp = {0: -1} 
-        prefix = 0
+        prefix = 0   
         res = len(nums)
 
         for i, x in enumerate(nums):
