@@ -3,7 +3,7 @@ class Solution(object):
         total = sum(nums)
         target = total % p
         if target == 0:
-            return 0 
+            return 0   
 
         mp = {0: -1} 
         prefix = 0
