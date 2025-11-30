@@ -4,7 +4,7 @@ class Solution(object):
         target = total % p
         if target == 0:
             return 0
-        
+    
     
 
         mp = {0: -1}     
