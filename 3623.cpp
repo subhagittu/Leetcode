@@ -7,7 +7,7 @@ public:
         for(auto p : points){
             C[p[1]] += 1;   
         }
-        long long sum = 0;
+        long long sum = 0; 
         long long ans = 0;
         for(auto [y, Cy] : C){
             long long Vy = (long long)Cy * (Cy - 1) / 2;
