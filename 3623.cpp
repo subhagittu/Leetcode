@@ -3,7 +3,7 @@ public:
     int countTrapezoids(vector<vector<int>>& points) {
         const int mod = 1e9 + 7;
 
-        unordered_map <int, int> C;   
+        unordered_map <int, int> C; 
         for(auto p : points){
             C[p[1]] += 1;   
         }
