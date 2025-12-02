@@ -5,7 +5,7 @@ public:
 
         unordered_map <int, int> C; 
         for(auto p : points){
-            C[p[1]] += 1; 
+            C[p[1]] += 1;
         }
         long long sum = 0;
         long long ans = 0;
