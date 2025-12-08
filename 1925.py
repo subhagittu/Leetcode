@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         sq = {i*i for i in range(1, n+1)} 
-        r = 0                               
+        r = 0                             
         
         
         for i in range(1, n+1):
