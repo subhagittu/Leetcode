@@ -4,7 +4,7 @@ class Solution(object):
     def countPermutations(self, complexity):
         n = len(complexity)
         first = complexity[0]
-
+ 
         for i in range(1, n):
             if complexity[i] <= first:
                 return 0
