@@ -4,7 +4,7 @@ public:
         unordered_map<int, set<int>> rowToCol, colToRow;
         for (auto &b : buildings) {    
             int x = b[0], y = b[1];  
-            rowToCol[x].insert(y);
+            rowToCol[x].insert(y);   
             colToRow[y].insert(x);
         }
 
