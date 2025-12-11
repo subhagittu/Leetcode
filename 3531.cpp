@@ -3,7 +3,7 @@ public:
     int countCoveredBuildings(int n, vector<vector<int>>& buildings) {
         unordered_map<int, set<int>> rowToCol, colToRow;
         for (auto &b : buildings) {       
-            int x = b[0], y = b[1];     
+            int x = b[0], y = b[1];       
             rowToCol[x].insert(y);     
             colToRow[y].insert(x);       
         }  
