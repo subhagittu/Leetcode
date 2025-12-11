@@ -6,7 +6,7 @@ public:
             int x = b[0], y = b[1];        
             rowToCol[x].insert(y); 
             colToRow[y].insert(x); 
-        } 
+        }
 
         int cnt = 0;  
         for (auto &b : buildings) {
