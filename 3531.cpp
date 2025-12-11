@@ -5,7 +5,7 @@ public:
         for (auto &b : buildings) {       
             int x = b[0], y = b[1];        
             rowToCol[x].insert(y); 
-            colToRow[y].insert(x); 
+            colToRow[y].insert(x);
         }
 
         int cnt = 0;  
