@@ -8,7 +8,7 @@ public:
             colToRow[y].insert(x);   
         }
 
-        int cnt = 0;
+        int cnt = 0;  
         for (auto &b : buildings) {
             int x = b[0], y = b[1];
             auto &cols = rowToCol[x];
