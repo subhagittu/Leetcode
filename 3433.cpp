@@ -6,7 +6,7 @@ public:
         ranges::sort(events, {}, [](auto& e) {  
             return pair(stoi(e[1]), e[0][2]);
         });
-  
+
         vector<int> ans(numberOfUsers);
         vector<int> online_t(numberOfUsers);
         for (auto& e : events) {
