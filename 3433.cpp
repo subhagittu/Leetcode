@@ -3,7 +3,7 @@ class Solution {
 public:
     vector<int> countMentions(int numberOfUsers, vector<vector<string>>& events) {
                
-        ranges::sort(events, {}, [](auto& e) {   
+        ranges::sort(events, {}, [](auto& e) {     
             return pair(stoi(e[1]), e[0][2]);   
         });  
 
