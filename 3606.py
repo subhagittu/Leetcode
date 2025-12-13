@@ -3,7 +3,7 @@ class Solution(object):
         e, g, p, r = [], [], [], []
 
         for i in range(len(isActive)):
-            if not isActive[i]:  
+            if not isActive[i]:   
                 continue   
 
             bl = businessLine[i]  
