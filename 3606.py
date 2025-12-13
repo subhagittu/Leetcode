@@ -2,7 +2,7 @@ class Solution(object):
     def validateCoupons(self, code, businessLine, isActive):
         e, g, p, r = [], [], [], []
 
-        for i in range(len(isActive)):
+        for i in range(len(isActive)):   
             if not isActive[i]:
                 continue
 
