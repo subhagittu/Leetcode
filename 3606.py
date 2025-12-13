@@ -4,7 +4,7 @@ class Solution(object):
 
         for i in range(len(isActive)):
             if not isActive[i]:
-                continue  
+                continue   
 
             bl = businessLine[i]  
             if bl not in ("electronics", "grocery", "pharmacy", "restaurant"):
