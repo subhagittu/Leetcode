@@ -6,7 +6,7 @@ class Solution(object):
             if not isActive[i]:
                 continue
                 
-            bl = businessLine[i]  
+            bl = businessLine[i]
             if bl not in ("electronics", "grocery", "pharmacy", "restaurant"):
                 continue
 
