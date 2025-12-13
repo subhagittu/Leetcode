@@ -3,8 +3,8 @@ class Solution(object):
         e, g, p, r = [], [], [], []
 
         for i in range(len(isActive)):
-            if not isActive[i]:   
-                continue   
+            if not isActive[i]:
+                continue
 
             bl = businessLine[i]  
             if bl not in ("electronics", "grocery", "pharmacy", "restaurant"):
