@@ -1,7 +1,7 @@
 class Data:
     def __init__(self, profit, buy, sell):
         self.profit=profit
-        self.buy=buy
+        self.buy=buy 
         self.sell=sell
 class Solution: 
     def maximumProfit(self, prices: List[int], k: int) -> int:
