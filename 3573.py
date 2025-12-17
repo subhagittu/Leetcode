@@ -7,7 +7,7 @@ class Solution:
     def maximumProfit(self, prices: List[int], k: int) -> int:
         x0=prices[0]
         dp=[Data(0, -x0, x0) for _ in range(k+1)]
-        n=len(prices) 
+        n=len(prices)
         for i in range(1, n):
             x=prices[i]
             for t in range(k, 0, -1):
