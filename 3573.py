@@ -3,7 +3,7 @@ class Data:
         self.profit=profit
         self.buy=buy
         self.sell=sell
-class Solution:
+class Solution: 
     def maximumProfit(self, prices: List[int], k: int) -> int: 
         x0=prices[0]
         dp=[Data(0, -x0, x0) for _ in range(k+1)]
