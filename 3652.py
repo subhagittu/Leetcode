@@ -3,7 +3,7 @@ long long sum[N];
 class Solution {
 public:
     static long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
-        const int n=prices.size(), k2=k/2;
+        const int n=prices.size(), k2=k/2; 
         memset(sum, 0, sizeof(long long)*(n+1));
         for(int i=0; i<n; i++){
             sum[i+1]=sum[i]+1LL*strategy[i]*prices[i];
