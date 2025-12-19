@@ -4,7 +4,7 @@ public:
     vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson)
     {
         vector<vector<int2>> adj(n);  
-        // Build adjacent lists    
+        // Build adjacent lists     
         for(auto& meet: meetings){   
             int x=meet[0], y=meet[1], time=meet[2];
             adj[x].emplace_back(time, y);
