@@ -2,7 +2,7 @@ class Solution {
 public:           
     using int2=pair<int, int>;        
     vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson)
-    {
+    { 
         vector<vector<int2>> adj(n);  
         // Build adjacent lists     
         for(auto& meet: meetings){   
