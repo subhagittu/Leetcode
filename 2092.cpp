@@ -1,4 +1,4 @@
-class Solution {  
+class Solution {   
 public:      
     using int2=pair<int, int>;        
     vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson)
