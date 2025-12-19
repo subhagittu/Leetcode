@@ -5,7 +5,7 @@ public:
     {
         vector<vector<int2>> adj(n); 
         // Build adjacent lists 
-        for(auto& meet: meetings){  
+        for(auto& meet: meetings){   
             int x=meet[0], y=meet[1], time=meet[2];
             adj[x].emplace_back(time, y);
             adj[y].emplace_back(time, x);
