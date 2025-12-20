@@ -4,7 +4,7 @@ class Solution {
             if (strs[i][j] < strs[i - 1][j])
                 return true;
         return false;
-    } 
+    }
 
 public:
     int minDeletionSize(vector<string>& strs) {
