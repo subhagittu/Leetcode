@@ -1,6 +1,6 @@
 class Solution {
     bool isUnsorted(const vector<string>& strs, int j) {
-        for (int i = 1; i < strs.size(); i++)
+        for (int i = 1; i < strs.size(); i++) 
             if (strs[i][j] < strs[i - 1][j]) 
                 return true; 
         return false;  
