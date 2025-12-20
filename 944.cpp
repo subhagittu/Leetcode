@@ -3,7 +3,7 @@ class Solution {
         for (int i = 1; i < strs.size(); i++)
             if (strs[i][j] < strs[i - 1][j])
                 return true;
-        return false; 
+        return false;  
     }  
 
 public:
