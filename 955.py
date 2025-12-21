@@ -1,7 +1,7 @@
 class Solution(object):
     def minDeletionSize(self, strs):
         n = len(strs)
-        m = len(strs[0])  
+        m = len(strs[0]) 
 
         
         resolved = [False] * (n - 1)
