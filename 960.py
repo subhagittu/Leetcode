@@ -5,7 +5,7 @@ class Solution(object):
         dp = [1] * n
     
         for i in range(1, n):   
-            for j in range(i): 
+            for j in range(i):  
                 ok = True
                 for r in range(m):
                     if strs[r][j] > strs[r][i]:
