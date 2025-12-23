@@ -4,7 +4,7 @@ public:
         vector<array<int, 3>> times; 
         for (auto& e : events) {   
 
-            times.push_back({e[0], 1, e[2]});
+            times.push_back({e[0], 1, e[2]}); 
 
             times.push_back({e[1] + 1, 0, e[2]});
         }
