@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxTwoEvents(vector<vector<int>>& events) {
-        vector<array<int, 3>> times;
+        vector<array<int, 3>> times; 
         for (auto& e : events) { 
 
             times.push_back({e[0], 1, e[2]});
