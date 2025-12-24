@@ -1,7 +1,7 @@
 class Solution:
     def minimumBoxes(self, apple: List[int], cap: List[int]) -> int:
         tot = sum(apple) 
-        cap.sort(reverse=True)    
+        cap.sort(reverse=True)     
          
         res = 0 
         while tot > 0: 
