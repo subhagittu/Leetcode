@@ -4,7 +4,7 @@ class Solution:
         cap.sort(reverse=True)    
   
         res = 0
-        while tot > 0:
+        while tot > 0: 
             tot -= cap[res]
             res += 1
 
