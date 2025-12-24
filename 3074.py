@@ -3,7 +3,7 @@ class Solution:
         tot = sum(apple) 
         cap.sort(reverse=True)        
                      
-        res = 0  
+        res = 0   
         while tot > 0: 
             tot -= cap[res]
             res += 1
