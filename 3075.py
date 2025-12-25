@@ -1,7 +1,7 @@
 class Solution:
     def maximumHappinessSum(self, christmasJoy: List[int], gifts: int) -> int:
         # Santa gives gifts to the happiest children first
-        christmasJoy.sort(reverse=True)  
+        christmasJoy.sort(reverse=True) 
     
         totalJoy = 0
         for turn in range(gifts):
