@@ -5,7 +5,7 @@ class Solution:
         
         totalJoy = 0 
         for turn in range(gifts):
-            currentJoy = christmasJoy[turn] - turn
+            currentJoy = christmasJoy[turn] - turn 
             if currentJoy <= 0:
                 break
             totalJoy += currentJoy
