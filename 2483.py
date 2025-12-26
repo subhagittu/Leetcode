@@ -3,7 +3,7 @@ class Solution:
         maxi = 0 
         profit = 0    
         index = 0
- 
+  
         for i, x in enumerate(customers):
             if x == 'Y':
                 profit += 1
