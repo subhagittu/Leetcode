@@ -1,6 +1,6 @@
 class Solution:
     def bestClosingTime(self, customers: str) -> int:
-        maxi = 0 
+        maxi = 0  
         profit = 0   
         index = 0  
 
