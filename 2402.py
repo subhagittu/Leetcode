@@ -3,7 +3,7 @@ class Solution:
         ready = [r for r in range(n)]
         rooms = []
         heapify(ready)
-        res = [0] * n 
+        res = [0] * n  
   
         for s, e in sorted(meetings): 
             while rooms and rooms[0][0] <= s:
