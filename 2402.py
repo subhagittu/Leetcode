@@ -5,7 +5,7 @@ class Solution:
         heapify(ready)
         res = [0] * n  
   
-        for s, e in sorted(meetings):
+        for s, e in sorted(meetings): 
             while rooms and rooms[0][0] <= s:
                 t, r = heappop(rooms)
                 heappush(ready, r)
