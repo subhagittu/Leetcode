@@ -2,7 +2,7 @@ class Solution:
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
         ready = [r for r in range(n)]
         rooms = []
-        heapify(ready)
+        heapify(ready) 
         res = [0] * n  
   
         for s, e in sorted(meetings): 
