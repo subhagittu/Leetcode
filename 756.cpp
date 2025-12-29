@@ -6,7 +6,7 @@ public:
     { 
         if(n==1) return true;    
              
-        if(ind==n-1)
+        if(ind==n-1) 
         { 
             if (dp.count(newlayer)) return dp[newlayer];
             return dp[newlayer]=solve(0,"",newlayer,n-1);
