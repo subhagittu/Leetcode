@@ -1,7 +1,7 @@
 class Solution {
 public:
     map<string,vector<string>> mp;
-    map<string,bool> dp; 
+    map<string,bool> dp;  
     bool solve(int ind, string newlayer, string oldlayer, int n)
     {
         if(n==1) return true;
