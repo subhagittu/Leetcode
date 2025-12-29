@@ -5,7 +5,7 @@ public:
     bool solve(int ind, string newlayer, string oldlayer, int n)
     {
         if(n==1) return true; 
-           
+            
         if(ind==n-1)
         {
             if (dp.count(newlayer)) return dp[newlayer];
