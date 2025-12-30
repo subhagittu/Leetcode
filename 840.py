@@ -1,7 +1,7 @@
 class Solution(object):
     def numMagicSquaresInside(self, grid):
         """
-        :type grid: List[List[int]]    
+        :type grid: List[List[int]]     
         :rtype: int
         """ 
         r, c = len(grid), len(grid[0])
