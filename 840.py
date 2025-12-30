@@ -2,7 +2,7 @@ class Solution(object):
     def numMagicSquaresInside(self, grid):
         """
         :type grid: List[List[int]]    
-        :rtype: int 
+        :rtype: int
         """ 
         r, c = len(grid), len(grid[0])
         if r < 3 or c < 3:
