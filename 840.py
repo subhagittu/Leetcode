@@ -3,7 +3,7 @@ class Solution(object):
         """     
         :type grid: List[List[int]]      
         :rtype: int
-        """     
+        """      
         r, c = len(grid), len(grid[0])
         if r < 3 or c < 3:
             return 0
