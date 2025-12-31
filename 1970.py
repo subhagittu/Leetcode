@@ -2,6 +2,7 @@ class Solution(object):
     def latestDayToCross(self, row, col, cells):
         """   
         :type row: int 
+        
         :type col: int    
         :type cells: List[List[int]]
         :rtype: int 
@@ -26,6 +27,7 @@ class Solution(object):
 
         for d in range(len(cells) - 1, -1, -1):
             r, c = cells[d][0] - 1, cells[d][1] - 1
+            
             id = r * col + c
             land[id] = True
 
@@ -41,5 +43,6 @@ class Solution(object):
             if r == row - 1: unite(id, bottom)
 
             if find(top) == find(bottom):
+                
                 return d
         return 0
