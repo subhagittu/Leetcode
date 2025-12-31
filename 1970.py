@@ -30,6 +30,7 @@ class Solution(object):
             land[id] = True
 
             for dr, dc in ((1,0),(-1,0),(0,1),(0,-1)):
+                
                 nr, nc = r + dr, c + dc
                 if 0 <= nr < row and 0 <= nc < col:
                     nid = nr * col + nc
