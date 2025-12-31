@@ -4,7 +4,7 @@ class Solution(object):
         :type row: int
         :type col: int      
         :type cells: List[List[int]]  
-        :rtype: int
+        :rtype: int 
         """
         n = row * col
         top, bottom = n, n + 1
