@@ -2,7 +2,7 @@ class Solution(object):
     def plusOne(self, digits):
         """  
         :type digits: List[int] 
-        :rtype: List[int] 
+        :rtype: List[int]  
         """
         s1 = ''
         for i in digits:
