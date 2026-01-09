@@ -21,7 +21,7 @@ class Solution:
             elif right_depth > left_depth:
                 return right_depth + 1, right_node
             else:
-                return left_depth + 1, node
+                return right_depth + 1, node
 
         return dfs(root)[1]
         
