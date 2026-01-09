@@ -7,6 +7,8 @@
 class Solution:
     def subtreeWithAllDeepest(self, root):
         # Helper function returns (depth, lca_node)
+        if root is None:
+            return None
         def dfs(node):
             if not node:
                 return 0, None
