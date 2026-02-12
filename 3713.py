@@ -1,44 +1,23 @@
 class Solution(object):
-    def freqcount(self, ch1):
-        d1 = {}
-        for ele in ch1:
-            if ele in d1:
-                d1[ele] += 1
-            else:
-                d1[ele] = 1
-
-        value_list = list(d1.values())
-        for i in range(1,len(value_list)):
-            if value_list[i] != value_list[i-1]:
-                return False
-        return True 
-
-
-
     def longestBalanced(self, s):
         """
         :type s: str
         :rtype: int
         """
+        cnt, n=1, len(s)
+        for l in range(n):
+            freq=[0]*26
+            uniq, maxF, cntMax=0, 0, 0
+            for r in range(l, n):
+                freq[ord(s[r])-97]+=1
+                f=freq[ord(s[r])-97]
+                uniq+=f==1
+                if f>maxF:
+                    maxF=f
+                    cntMax=1
+                elif f==maxF:
+                    cntMax+=1
+                if uniq==cntMax:
+                    cnt=max(cnt, r-l+1)
+        return cnt
         
-        res1 = ''
-        maxres = ''
-        for i in range(0,len(s)):
-            res = ''
-            res += s[i]
-        
-            for j in range(i+1,len(s)):
-                res += s[j]
-            
-                if self.freqcount(res):
-                    res1 = res
-                    if len(res) > len(maxres):
-                        maxres = res
-            
-        if len(s) == 1:
-            return 1
-        return len(maxres)
-
-
-
-
