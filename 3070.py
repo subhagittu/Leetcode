@@ -1,5 +1,4 @@
-#optimal approach
-#O(n^3) complexity
+#Optimal approach
 class Solution(object):
     def countSubmatrices(self, grid, k):
         """
@@ -7,20 +6,26 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        rows = len(grid)
-        cols = len(grid[0])
-        count = 0
-
-        for i in range(rows):
-            for j in range(cols):
-                total = 0
-                
-                # calculate sum from (0,0) to (i,j)
-                for r in range(i + 1):
-                    for c in range(j + 1):
-                        total += grid[r][c]
-                
-                if total <= k:
-                    count += 1
-        
-        return count
+        r, c=len(grid), len(grid[0])
+        cnt, brCol=0, c
+        if grid[0][0]>k:
+            return 0
+        cnt+=1
+        for j in range(1, c):
+            grid[0][j]+=grid[0][j-1]
+            if grid[0][j]>k:
+                brCol=j
+                break
+            cnt+=1
+        for i in range(1, r):
+            grid[i][0]+=grid[i-1][0]
+            if grid[i][0]>k:
+                break
+            cnt+=1
+            for j in range(1, brCol):
+                grid[i][j]+=grid[i-1][j]+grid[i][j-1]-grid[i-1][j-1]
+                if grid[i][j]>k:
+                    brCol=j
+                    break
+                cnt+=1
+        return cnt
