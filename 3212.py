@@ -2,21 +2,23 @@ class Solution(object):
     def numberOfSubmatrices(self, grid):
         rows = len(grid)
         cols = len(grid[0])
-        count = 0
-        for i in range(0,rows):
-            for j in range(0,cols):
-                countx = 0
-                county = 0
+        sumX = [0] * cols
+        sumY = [0] * cols
+        res = 0
 
-                for r in range(i+1):
-                    for c in range(j+1):
-                        if grid[r][c] == 'X':
-                            countx += 1
+        for i in range(rows):
+            rx = 0
+            ry = 0
+            for j in range(cols):
+                if grid[i][j] == 'X':
+                    rx += 1
+                elif grid[i][j] == 'Y':
+                    ry += 1
+                
+                sumX[j] += rx
+                sumY[j] += ry
+                
+                if sumX[j] > 0 and sumX[j] == sumY[j]:
+                    res += 1
 
-                        elif grid[r][c] == 'Y':
-                            county += 1
-
-                if countx == county and countx > 0 :
-                    count += 1
-
-        return count
+        return res
