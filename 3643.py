@@ -7,7 +7,7 @@ class Solution(object):
         :type k: int
         :rtype: List[List[int]]
         """
-        for i in range(k >> 1):
+        for i in range(k // 2):
             row1 = grid[x + i]
             row2 = grid[x + k - 1 - i]
             for j in range(k):
