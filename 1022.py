@@ -9,6 +9,7 @@ class Solution:
             return curr
 
         return self.dfs(node.left, curr) + self.dfs(node.right, curr)
+.
 
     def sumRootToLeaf(self, root):
         return self.dfs(root, 0)
