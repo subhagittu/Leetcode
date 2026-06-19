@@ -3,6 +3,6 @@ class Solution(object):
         cur = 0
         res = [] 
         for bit in nums:
-            cur = ((cur << 1) + bit) % 5
+            cur = ((cur << 1) + bit) % 5 
             res.append(cur == 0)
         return res
