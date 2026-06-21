@@ -1,5 +1,5 @@
 class Solution(object):
-    def prefixesDivBy5(self, nums):
+    def prefixesDivBy5(self, nums): 
         cur = 0   
         res = []  
         for bit in nums: 
