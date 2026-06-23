@@ -7,6 +7,7 @@ class Solution(object):
         """
         for i,ele in enumerate(nums):
             if target-ele in nums:
-                index1 = nums.index(target-ele)
-                if i != index1:
-                    return [i,index1]
+                index2 = nums.index(target-ele)
+                if i != index2:
+                    return [i,index2]
+
