@@ -10,5 +10,3 @@ class Solution(object):
                 index1 = nums.index(target-ele)
                 if i != index1:
                     return [i,index1]
-
-        
