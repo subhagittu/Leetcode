@@ -9,7 +9,6 @@ class Solution(object):
         for i in range(1,len(nums)):
             if total < 0:
                 total = 0
-                #maxsum = max(maxsum,total)
             total += nums[i]
             maxsum = max(maxsum, total)
 
