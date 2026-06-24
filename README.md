@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subhagittu/Leetcode/tree/master/0053-maximum-subarray) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
