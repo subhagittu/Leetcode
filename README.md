@@ -12,11 +12,13 @@
 | [0283-move-zeroes](https://github.com/subhagittu/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/subhagittu/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhagittu/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/subhagittu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -49,9 +52,22 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subhagittu/Leetcode/tree/master/0053-maximum-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subhagittu/Leetcode/tree/master/0053-maximum-subarray) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
