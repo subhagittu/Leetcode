@@ -6,23 +6,20 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        pref = n
-
-        freq = [0] * (2 * n + 1)
-        freq[n] = 1
-
+        freq = [0]*(2*n+1)
         less = 0
         ans = 0
-
+        prev = n
+        freq[prev] += 1
         for num in nums:
             if num == target:
-                less += freq[pref]
-                pref += 1
+                less += freq[prev]
+                prev += 1
             else:
-                pref -= 1
-                less -= freq[pref]
+                prev -=1 
+                less -= freq[prev]
 
-            freq[pref] += 1
+            freq[prev] += 1
             ans += less
 
         return ans
