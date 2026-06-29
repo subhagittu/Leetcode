@@ -7,7 +7,7 @@ class Solution(object):
         output = [1] * len(nums)
         
         left = 1
-        for i in range(len(nums)):
+        for i in range(0,len(nums)):
             output[i] *= left
             left *= nums[i]
         
