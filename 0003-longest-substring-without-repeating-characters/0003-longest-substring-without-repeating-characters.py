@@ -4,20 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        l1 = []
-        maxlen = 0
-        for i in range(0,len(s)):
-            l1 = []
-            l1.append(s[i])
-            maxlen = max(maxlen,len(l1))
-            for j in range(i+1,len(s)):
-                if s[j] not in l1:
-                    l1.append(s[j])
-                    maxlen = max(maxlen,len(l1))
-                else:
-                    break
+        max_length = left = 0
+        count = {}
 
-        return maxlen
+        for right, c in enumerate(s):
+            count[c] = 1 + count.get(c, 0)
+            while count[c] > 1:
+                count[s[left]] -= 1
+                left += 1
+        
+            max_length = max(max_length, right - left + 1)
 
-              
-                
+        return max_length
