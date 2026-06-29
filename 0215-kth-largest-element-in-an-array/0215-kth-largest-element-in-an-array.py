@@ -10,7 +10,5 @@ class Solution(object):
         # for char in nums:
         #     if char not in nums2:
         #         nums2.append(char)
-
-        nums.sort(reverse = True)
-        k = k%len(nums)
-        return nums[k-1]
+        nums.sort()
+        return nums[len(nums)-k]
