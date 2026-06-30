@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/subhagittu/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/subhagittu/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/subhagittu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhagittu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subhagittu/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/subhagittu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Segment Tree
 |  |
