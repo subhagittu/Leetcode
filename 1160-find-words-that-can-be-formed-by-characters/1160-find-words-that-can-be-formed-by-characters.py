@@ -6,9 +6,15 @@ class Solution(object):
         :rtype: int
         """
         def ismatched(word1, chars):
-            d1 = Counter(chars)
+            # d1 = Counter(chars)
+            d1 = {}
+            for char in chars:
+                if char in d1:
+                    d1[char] += 1
+                else:
+                    d1[char] = 1
             for ele in word1:
-                if d1[ele] <= 0:
+                if ele not in d1 or d1[ele] <= 0:
                     return False
 
                 d1[ele] -= 1
