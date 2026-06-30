@@ -19,6 +19,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/subhagittu/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/subhagittu/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subhagittu/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhagittu/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhagittu/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -29,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhagittu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhagittu/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhagittu/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -45,10 +47,12 @@
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subhagittu/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
