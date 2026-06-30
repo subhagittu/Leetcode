@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/subhagittu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/subhagittu/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/subhagittu/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/subhagittu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/subhagittu/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/subhagittu/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhagittu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhagittu/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -65,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhagittu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhagittu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/subhagittu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subhagittu/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -103,6 +106,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
