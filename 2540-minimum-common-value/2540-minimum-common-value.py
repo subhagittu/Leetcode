@@ -6,17 +6,17 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        queue1 = list(nums1)
-        queue2 = list(nums2)
-        while queue1 and queue2:
-            num1 = queue1[0]
-            num2 = queue2[0]
+        l1 = list(nums1)
+        l2 = list(nums2)
+        while l1 and l2:
+            num1 = l1[0]
+            num2 = l2[0]
             if num1 == num2:
                 return num1
             if num1 < num2:
-                queue1.pop(0)
+                l1.pop(0)
             if num1 > num2:
-                queue2.pop(0)
+                l2.pop(0)
 
         return -1
         
