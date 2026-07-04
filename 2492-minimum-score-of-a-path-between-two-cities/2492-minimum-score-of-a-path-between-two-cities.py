@@ -1,8 +1,13 @@
-class Solution:
-    def minScore(self, n: int, roads: List[List[int]]) -> int:
+class Solution(object):
+    def minScore(self, n, roads):
+        """
+        :type n: int
+        :type roads: List[List[int]]
+        :rtype: int
+        """
         root = list(range(n + 1))
 
-        def find(i: int) -> int:
+        def find(i):
             root[i] = find(root[i]) if root[i] != i else i
             return root[i]
 
