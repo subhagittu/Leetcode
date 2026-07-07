@@ -25,4 +25,3 @@ class Solution(object):
                 next1 = curr.next
 
         return head
-
