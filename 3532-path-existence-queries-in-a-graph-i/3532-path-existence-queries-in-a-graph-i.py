@@ -13,7 +13,7 @@ class Solution(object):
             if nums[i]-nums[i-1] <= maxDiff:
                 comp[i] = comp[i-1]
             else:
-                comp[i] = comp[i-1] + 3
+                comp[i] = comp[i-1] + 1
 
         for u,v in queries:
             if comp[u] == comp[v]:
