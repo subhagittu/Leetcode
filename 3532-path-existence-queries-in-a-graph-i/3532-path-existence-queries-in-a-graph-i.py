@@ -7,13 +7,14 @@ class Solution(object):
         :type queries: List[List[int]]
         :rtype: List[bool]
         """
-        comp = [0] * n
+        comp = [0]*n
         res = []
-        for i in range(1, n):
-            if nums[i] - nums[i - 1] <= maxDiff:
-                comp[i] = comp[i - 1]
+        for i in range(1,n):
+            if nums[i]-nums[i-1] <= maxDiff:
+                comp[i] = comp[i-1]
             else:
-                comp[i] = comp[i - 1] + 1
+                comp[i] = comp[i-1] + 1
+
         for u,v in queries:
             if comp[u] == comp[v]:
                 res.append(True)
@@ -21,4 +22,3 @@ class Solution(object):
                 res.append(False)
 
         return res
-        #return [comp[u] == comp[v] for u, v in queries]
