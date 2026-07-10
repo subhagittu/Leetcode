@@ -8,7 +8,7 @@ class Solution(object):
         size = len(prices)
         i = 0
         j = i + 1
-        while j < size:
+        for j in range(1,size):
             
             if prices[j] == prices[j-1]-1:
                 ans += (j-i)
