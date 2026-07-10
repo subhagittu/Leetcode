@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/subhagittu/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/subhagittu/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subhagittu/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
