@@ -4,11 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        total_sum = sum(nums)  
+        left_sum = 0
         count = 0
-        for i in range(1,len(nums)):
-            l1 = nums[:i]
-            l2 = nums[i:]
-            if (sum(l1) - sum(l2)) %2 == 0:
+
+        for i in range(0,len(nums) - 1):
+            left_sum += nums[i]
+            right_sum = total_sum - left_sum
+
+
+            if (left_sum % 2) == (right_sum % 2):
                 count += 1
 
         return count
