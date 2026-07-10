@@ -6,16 +6,14 @@ class Solution(object):
         """
         ans = 0
         size = len(prices)
-
         i = 0
         j = i + 1
-
         while j < size:
-            if prices[j] == prices[j - 1] - 1:
-                ans += (j - i)
+            
+            if prices[j] == prices[j-1]-1:
+                ans += (j-i)
                 j += 1
             else:
                 i = j
-                j = i + 1
-
+                j = i+1
         return ans + size
