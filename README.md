@@ -26,6 +26,7 @@
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhagittu/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/subhagittu/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subhagittu/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/subhagittu/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/subhagittu/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/subhagittu/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/subhagittu/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subhagittu/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/subhagittu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/subhagittu/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhagittu/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subhagittu/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
