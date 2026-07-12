@@ -16,7 +16,7 @@ class Solution(object):
         slow = dummy
         fast = dummy
 
-        for _ in range(n + 1):
+        for _ in range(0,n + 1):
             fast = fast.next
 
         while fast:
