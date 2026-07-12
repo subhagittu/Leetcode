@@ -10,7 +10,8 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        res = ListNode(0, head)
+        res = ListNode(0)
+        res.next = head
         dummy = res
 
         for _ in range(n):
