@@ -12,8 +12,9 @@ class Solution(object):
         """
         dummy = ListNode(-1)
         dummy.next = head
-        cur =dummy.next
+        
         prev = dummy
+        cur = dummy.next
         while cur:
             if cur.val == val:
                 prev.next = cur.next
