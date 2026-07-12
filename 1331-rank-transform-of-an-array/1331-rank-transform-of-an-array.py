@@ -4,15 +4,18 @@ class Solution(object):
         :type arr: List[int]
         :rtype: List[int]
         """
-        ranks = {}
-        rank = 1
+        d1 = {}
+        ranks = 1
         arr1 = []
-        arr1[:] = set(arr)
-        arr1[:] = list(arr1)
+        arr1 = set(arr)
+        arr1 = list(arr1)
         arr1.sort()
-        for x in arr1:
-            ranks[x] = rank
-            rank += 1
-        for i in range(len(arr)):
-            arr[i] = ranks[arr[i]]
-        return arr
+        for ele in arr1:
+            d1[ele] = ranks
+            ranks += 1
+        res = []
+        
+        for ele in arr:
+            res.append(d1[ele])
+
+        return res
