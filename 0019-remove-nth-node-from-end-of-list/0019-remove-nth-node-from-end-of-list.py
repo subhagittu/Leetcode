@@ -10,20 +10,16 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(0)
-        dummy.next = head
+        res = ListNode(0, head)
+        dummy = res
 
-        slow = dummy
-        fast = dummy
+        for _ in range(n):
+            head = head.next
+        
+        while head:
+            head = head.next
+            dummy = dummy.next
+        
+        dummy.next = dummy.next.next
 
-        for _ in range(0,n + 1):
-            fast = fast.next
-
-        while fast:
-
-            slow = slow.next
-            fast = fast.next
-
-        slow.next = slow.next.next
-
-        return dummy.next
+        return res.next
