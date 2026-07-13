@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/subhagittu/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhagittu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/subhagittu/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/subhagittu/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -78,6 +79,7 @@
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/subhagittu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/subhagittu/Leetcode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/subhagittu/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/subhagittu/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/subhagittu/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subhagittu/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
