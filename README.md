@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/subhagittu/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/subhagittu/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/subhagittu/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/subhagittu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhagittu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/subhagittu/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhagittu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/subhagittu/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/subhagittu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/subhagittu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/subhagittu/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhagittu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhagittu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/subhagittu/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/subhagittu/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/subhagittu/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhagittu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
