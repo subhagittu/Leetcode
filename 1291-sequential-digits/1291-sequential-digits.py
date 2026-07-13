@@ -6,17 +6,16 @@ class Solution(object):
         :rtype: List[int]
         """
         ans = []
+        l1 = str(low)
+        h1 = str(high)
 
-        s = "123456789"
-        l = str(low)
-        h = str(high)
+        s1 = "123456789"
 
-        for length in range(len(l), len(h) + 1):
-            for start in range(0, 10 - length):
-                num = int(s[start:start + length])
+        for length in range(len(l1), len(h1)+1):
+            for i in range(0,10-length):
+                num = int(s1[i:i+length])
                 if low <= num <= high:
                     ans.append(num)
 
         return ans
 
-        
