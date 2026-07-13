@@ -25,6 +25,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/subhagittu/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/subhagittu/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subhagittu/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -47,6 +48,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/subhagittu/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhagittu/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subhagittu/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -114,6 +116,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/subhagittu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subhagittu/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3340-check-balanced-string](https://github.com/subhagittu/Leetcode/tree/master/3340-check-balanced-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subhagittu/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
