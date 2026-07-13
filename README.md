@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/subhagittu/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/subhagittu/Leetcode/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/subhagittu/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhagittu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
