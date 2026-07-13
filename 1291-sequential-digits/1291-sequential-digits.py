@@ -9,10 +9,10 @@ class Solution(object):
         l1 = str(low)
         h1 = str(high)
 
-        s1 = "123456789"
+        s1 = "123456789" #length 9 so taking 9-length+1
 
         for length in range(len(l1), len(h1)+1):
-            for i in range(0,10-length):
+            for i in range(0,9-length +1):
                 num = int(s1[i:i+length])
                 if low <= num <= high:
                     ans.append(num)
