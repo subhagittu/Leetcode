@@ -32,6 +32,7 @@
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhagittu/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/subhagittu/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subhagittu/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subhagittu/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -67,6 +68,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/subhagittu/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/subhagittu/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/subhagittu/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/subhagittu/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -152,6 +154,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhagittu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subhagittu/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/subhagittu/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhagittu/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -284,4 +287,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/subhagittu/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
