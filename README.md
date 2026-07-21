@@ -135,6 +135,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subhagittu/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3340-check-balanced-string](https://github.com/subhagittu/Leetcode/tree/master/3340-check-balanced-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/subhagittu/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subhagittu/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -192,6 +193,7 @@
 | [1291-sequential-digits](https://github.com/subhagittu/Leetcode/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/subhagittu/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhagittu/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/subhagittu/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
