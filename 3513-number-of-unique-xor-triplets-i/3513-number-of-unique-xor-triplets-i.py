@@ -14,7 +14,7 @@ class Solution(object):
         m |= m >> 16
         
         if n==1 or n == 2:
-            return (m+1) >> 1
+            return (m+1)//2
         else:
             return (m+1)
         #return (m + 1) >> (3 // (n + 1))
