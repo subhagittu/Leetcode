@@ -229,6 +229,7 @@
 | [0101-symmetric-tree](https://github.com/subhagittu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhagittu/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -243,6 +244,7 @@
 | [0101-symmetric-tree](https://github.com/subhagittu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/subhagittu/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sliding Window
@@ -261,6 +263,7 @@
 | [0100-same-tree](https://github.com/subhagittu/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/subhagittu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subhagittu/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/subhagittu/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -301,6 +304,7 @@
 | [0101-symmetric-tree](https://github.com/subhagittu/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subhagittu/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/subhagittu/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
