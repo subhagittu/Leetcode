@@ -13,6 +13,7 @@ class Solution(object):
         res = []
         def postorder(root):
             if not root:
+                #res.append(0)
                 return
             postorder(root.left)
             postorder(root.right)
