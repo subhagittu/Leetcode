@@ -225,6 +225,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhagittu/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -237,6 +238,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhagittu/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -254,6 +256,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhagittu/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subhagittu/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -291,6 +294,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subhagittu/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
