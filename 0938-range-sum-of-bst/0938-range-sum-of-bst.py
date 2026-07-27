@@ -15,14 +15,14 @@ class Solution(object):
         def dfs(node):
             if not node:
                 return 0
-            
             current_val = 0
             if low <= node.val <= high:
                 current_val = node.val
-            
-            left_sum = dfs(node.left)
-            right_sum = dfs(node.right)
-            
-            return current_val + left_sum + right_sum
-        
+
+            return current_val + dfs(node.left) + dfs(node.right)
+
+
         return dfs(root)
+
+
+
