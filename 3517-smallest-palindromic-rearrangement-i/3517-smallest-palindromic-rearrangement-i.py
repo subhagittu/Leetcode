@@ -6,21 +6,17 @@ class Solution(object):
         """
         n = len(s)
 
-        # Count characters in the first half
-        freq = Counter(s[:n // 2])
+        d1 = Counter(s[:n//2])
 
-        half = ""
+        half = ''
 
-        # Add characters in alphabetical order
-        for ch in "abcdefghijklmnopqrstuvwxyz":
-            if ch in freq:
-                half += ch * freq[ch]
+        for char in 'abcdefghijklmnopqrstuvwxyz':
+            if char in d1:
+                half += char*d1[char]
 
-        # Middle character (only for odd length)
-        if n % 2 == 1:
-            middle = s[n // 2]
+        if n%2 == 1:
+            middle = s[n//2]
         else:
-            middle = ""
+            middle = ''
 
-        # Build palindrome
         return half + middle + half[::-1]
