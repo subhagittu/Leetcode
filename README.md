@@ -80,6 +80,7 @@
 | [1925-count-square-sum-triples](https://github.com/subhagittu/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/subhagittu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhagittu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/subhagittu/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/subhagittu/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -148,6 +149,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/subhagittu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subhagittu/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhagittu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3340-check-balanced-string](https://github.com/subhagittu/Leetcode/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/subhagittu/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/subhagittu/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/subhagittu/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhagittu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subhagittu/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
