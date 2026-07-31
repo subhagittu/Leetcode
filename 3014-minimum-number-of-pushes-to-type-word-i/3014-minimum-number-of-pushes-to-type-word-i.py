@@ -4,22 +4,11 @@ class Solution(object):
         :type word: str
         :rtype: int
         """
-        freq = [0] * 26
+        pushcnt = 0
+        ans = 0
+        for i in range(0,len(word)):
+            if i%8 == 0:
+                pushcnt += 1
+            ans += 1 * pushcnt
 
-        for ch in word:
-            freq[ord(ch) - ord('a')] += 1
-
-        freq.sort()
-
-        minPushing = 0
-        pushCnt = 0
-
-        for i in range(25, -1, -1):
-            currEleIdx = 25 - i
-
-            if currEleIdx % 8 == 0:
-                pushCnt += 1
-
-            minPushing += freq[i] * pushCnt
-
-        return minPushing
+        return ans
