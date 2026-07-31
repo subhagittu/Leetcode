@@ -4,16 +4,22 @@ class Solution(object):
         :type word: str
         :rtype: int
         """
-        n = len(word)
+        freq = [0] * 26
 
-        fullGroups = n // 8
-        remaining = n % 8
-        res = 0
-        num1 = 1
-        while num1 <= fullGroups:
-            res += num1 * 8
-            num1 += 1
+        for ch in word:
+            freq[ord(ch) - ord('a')] += 1
 
-        res += remaining*num1
+        freq.sort()
 
-        return res
+        minPushing = 0
+        pushCnt = 0
+
+        for i in range(25, -1, -1):
+            currEleIdx = 25 - i
+
+            if currEleIdx % 8 == 0:
+                pushCnt += 1
+
+            minPushing += freq[i] * pushCnt
+
+        return minPushing
