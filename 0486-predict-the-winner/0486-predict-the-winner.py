@@ -4,9 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        def maxDiff(i, j):
-            if i == j: return nums[i]
-            return max(nums[i] - maxDiff(i + 1, j),
-                       nums[j] - maxDiff(i, j - 1))
-
-        return maxDiff(0, len(nums) - 1) >= 0
+        n = len(nums)
+        if n % 2 == 0: 
+            return True
+            
+        dp = list(nums)
+        for i in range(n - 2, -1, -1):
+            for j in range(i + 1, n):
+                dp[j] = max(nums[i] - dp[j], nums[j] - dp[j - 1])
+        return dp[-1] >= 0
