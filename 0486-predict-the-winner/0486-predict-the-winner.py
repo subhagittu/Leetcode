@@ -4,12 +4,19 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        n = len(nums)
-        if n % 2 == 0: 
-            return True
-            
-        dp = list(nums)
-        for i in range(n - 2, -1, -1):
-            for j in range(i + 1, n):
-                dp[j] = max(nums[i] - dp[j], nums[j] - dp[j - 1])
-        return dp[-1] >= 0
+        def solve(left, right):
+            # Only one number left
+            if left == right:
+                return nums[left]
+
+            # If I take the left number,
+            # the opponent's advantage is solve(left+1, right)
+            takeLeft = nums[left] - solve(left + 1, right)
+
+            # If I take the right number,
+            # the opponent's advantage is solve(left, right-1)
+            takeRight = nums[right] - solve(left, right - 1)
+
+            return max(takeLeft, takeRight)
+
+        return solve(0, len(nums) - 1) >= 0
