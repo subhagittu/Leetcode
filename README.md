@@ -121,6 +121,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/subhagittu/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subhagittu/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/subhagittu/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -158,6 +159,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhagittu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhagittu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/subhagittu/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/subhagittu/Leetcode/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subhagittu/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/subhagittu/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -200,6 +202,7 @@
 | [0486-predict-the-winner](https://github.com/subhagittu/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/subhagittu/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subhagittu/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/subhagittu/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -239,6 +242,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/subhagittu/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhagittu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhagittu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/subhagittu/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subhagittu/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subhagittu/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
