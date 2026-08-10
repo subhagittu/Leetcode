@@ -22,6 +22,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/subhagittu/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/subhagittu/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/subhagittu/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/subhagittu/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/subhagittu/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
