@@ -11,7 +11,7 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         mpp = set(nums)
-        while head and head.val in mpp:
+        while head.val in mpp:
             head = head.next
         curr = head
         while curr and curr.next:
