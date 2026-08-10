@@ -84,6 +84,7 @@
 | [0486-predict-the-winner](https://github.com/subhagittu/Leetcode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/subhagittu/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhagittu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/subhagittu/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/subhagittu/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/subhagittu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -204,6 +205,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhagittu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/subhagittu/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/subhagittu/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/subhagittu/Leetcode/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -454,4 +457,20 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/subhagittu/Leetcode/tree/master/0707-design-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
