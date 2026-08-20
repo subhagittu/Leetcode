@@ -1,17 +1,24 @@
 class Solution(object):
-    def largestInteger(self, A, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        f = [0] * 51
-        for x in A:
-            f[x] += 1
+    def largestInteger(self, nums, k):
+        freq = [0] * 51
 
-        res, n = -1, len(A)
-        for i, c in enumerate(A):
-            if k == n or (f[c]==1 and (k==1 or not i or i+1==n)):
-                res = max(res, c)
+        for num in nums:
+            freq[num] += 1
 
-        return res
+        ans = -1
+        n = len(nums)
+
+        for i, num in enumerate(nums):
+
+            if k == n:
+                ans = max(ans, num)
+
+            elif freq[num] == 1:
+
+                if k == 1:
+                    ans = max(ans, num)
+
+                elif i == 0 or i == n - 1:
+                    ans = max(ans, num)
+
+        return ans
