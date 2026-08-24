@@ -32,6 +32,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/subhagittu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/subhagittu/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/subhagittu/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subhagittu/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/subhagittu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -100,6 +101,7 @@
 | [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/subhagittu/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/subhagittu/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/subhagittu/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/subhagittu/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/subhagittu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/subhagittu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/subhagittu/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/subhagittu/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -227,6 +230,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/subhagittu/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/subhagittu/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/subhagittu/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/subhagittu/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -479,6 +483,7 @@
 | [0486-predict-the-winner](https://github.com/subhagittu/Leetcode/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/subhagittu/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/subhagittu/Leetcode/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
@@ -492,6 +497,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -504,6 +510,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
 ## Ordered Set
 |  |
 | ------- |
