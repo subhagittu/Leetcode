@@ -6,7 +6,7 @@ public:
       if(currentTarIn >= (t.size())) {
         return 1;
       }
-      if(currentInd>=(s.size())) {
+      if(currentInd>=(s.size())) {       
         return 0;
       }
       if(dp[currentInd][currentTarIn] != -1) {
