@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/subhagittu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/subhagittu/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/subhagittu/Leetcode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/subhagittu/Leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/subhagittu/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -409,6 +410,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/subhagittu/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/subhagittu/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
