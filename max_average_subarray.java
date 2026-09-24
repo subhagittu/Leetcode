@@ -1,5 +1,5 @@
 class Solution {
-    public double findMaxAverage(int[] nums, int k) {
+    public double findMaxAverage(int[] nums, int k) {       
         int windowOpening = 0;
         int sum = 0;
         int max = Integer.MIN_VALUE;
