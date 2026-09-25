@@ -84,6 +84,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/subhagittu/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1096-brace-expansion-ii](https://github.com/subhagittu/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/subhagittu/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -212,6 +213,7 @@
 | [0115-distinct-subsequences](https://github.com/subhagittu/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/subhagittu/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/subhagittu/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhagittu/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/subhagittu/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -246,6 +248,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/subhagittu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/subhagittu/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/subhagittu/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/subhagittu/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subhagittu/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhagittu/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -422,6 +425,7 @@
 | [0226-invert-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1096-brace-expansion-ii](https://github.com/subhagittu/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subhagittu/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/subhagittu/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -521,6 +525,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/subhagittu/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhagittu/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/subhagittu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/subhagittu/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -558,6 +563,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/subhagittu/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subhagittu/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
 |  |
