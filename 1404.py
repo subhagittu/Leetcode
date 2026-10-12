@@ -6,7 +6,7 @@ class Solution(object):
         """
         num = int(s,2)      
         cnt = 0
-        while num >= 1:
+        while num >= 1:     
             if num%2 == 0:
                 num = num//2
                 cnt += 1
