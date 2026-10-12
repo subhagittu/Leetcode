@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        num = int(s,2)
+        num = int(s,2)      
         cnt = 0
         while num >= 1:
             if num%2 == 0:
