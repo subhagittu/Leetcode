@@ -8,6 +8,8 @@ class Solution(object):
 
         ans = []
         min_diff = float('inf')
+
+
         for i in range(1,len(arr)):
             if arr[i] - arr[i-1] < min_diff:
                 min_diff = arr[i] - arr[i-1]
