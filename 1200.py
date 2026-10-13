@@ -4,7 +4,8 @@ class Solution(object):
         :type arr: List[int]
         :rtype: List[List[int]]  
         """
-        arr.sort()
+        arr.sort()  
+
         ans = []
         min_diff = float('inf')
         for i in range(1,len(arr)):
