@@ -1,7 +1,7 @@
 class Solution(object):
     def maxNumberOfBalloons(self, text):
         """
-        :type text: str
+        :type text: str.  
         :rtype: int
         """    
         text = list(text)
