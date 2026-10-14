@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type text: str
         :rtype: int
-        """
+        """    
         text = list(text)
         ans = 0.  
 
