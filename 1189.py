@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         text = list(text)
-        ans = 0
+        ans = 0.  
 
         while True:
             word = list("balloon")
