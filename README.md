@@ -48,6 +48,7 @@
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhagittu/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhagittu/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subhagittu/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/subhagittu/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subhagittu/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -99,6 +100,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/subhagittu/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/subhagittu/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2540-minimum-common-value](https://github.com/subhagittu/Leetcode/tree/master/2540-minimum-common-value) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhagittu/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/subhagittu/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subhagittu/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhagittu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/subhagittu/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhagittu/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/subhagittu/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhagittu/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/subhagittu/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -676,4 +679,8 @@
 | [1789-primary-department-for-each-employee](https://github.com/subhagittu/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/subhagittu/Leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/subhagittu/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhagittu/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
