@@ -5,7 +5,7 @@ class TreeNode(object):
         self.left = left
         self.right = right
 class Solution(object):
-    def maxLevelSum(self, root):
+    def maxLevelSum(self, root): 
         """
         :type root: Optional[TreeNode]
         :rtype: int
