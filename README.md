@@ -677,6 +677,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/subhagittu/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/subhagittu/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/subhagittu/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/subhagittu/Leetcode/tree/master/0595-big-countries) |
