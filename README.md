@@ -21,6 +21,7 @@
 | [0835-image-overlap](https://github.com/subhagittu/Leetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhagittu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subhagittu/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1254-number-of-closed-islands](https://github.com/subhagittu/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/subhagittu/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/subhagittu/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/subhagittu/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -479,6 +480,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/subhagittu/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/subhagittu/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subhagittu/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/subhagittu/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/subhagittu/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -486,6 +488,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/subhagittu/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/subhagittu/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subhagittu/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/subhagittu/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -496,6 +499,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/subhagittu/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/subhagittu/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/subhagittu/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhagittu/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -533,6 +537,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/subhagittu/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subhagittu/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/subhagittu/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/subhagittu/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subhagittu/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/subhagittu/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/subhagittu/Leetcode/tree/master/3310-remove-methods-from-project) |
