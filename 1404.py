@@ -2,7 +2,7 @@ class Solution(object):
     def numSteps(self, s):
         """
         :type s: str
-        :rtype: int
+        :rtype: int. 
         """
         num = int(s,2)      
         cnt = 0
