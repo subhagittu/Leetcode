@@ -7,7 +7,7 @@ class Solution(object):
         return l1
 
      
-
+   
 
 
     def sumFourDivisors(self, nums):
