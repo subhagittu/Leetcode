@@ -4,7 +4,7 @@ class Solution(object):
 
     def minimumDistance(self, word):
         n = len(word)
-        dp = [[[0] * 26 for _ in range(26)] for _ in range(n + 1)]  
+        dp = [[[0] * 26 for _ in range(26)] for _ in range(n + 1)]     
 
         for i in range(n):
             t = ord(word[i]) - ord('A')
