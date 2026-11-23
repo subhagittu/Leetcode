@@ -29,6 +29,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/subhagittu/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/subhagittu/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/subhagittu/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/subhagittu/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subhagittu/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/subhagittu/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/subhagittu/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -154,6 +155,7 @@
 | [0633-sum-of-square-numbers](https://github.com/subhagittu/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/subhagittu/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhagittu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/subhagittu/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/subhagittu/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/subhagittu/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/subhagittu/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/subhagittu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/subhagittu/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/subhagittu/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subhagittu/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/subhagittu/Leetcode/tree/master/1872-stone-game-viii) |
@@ -723,6 +726,7 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/subhagittu/Leetcode/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/subhagittu/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Minimax
 |  |
 | ------- |
@@ -815,4 +819,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/subhagittu/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/subhagittu/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
